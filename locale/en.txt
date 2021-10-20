@@ -1,0 +1,75 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Tour Virtual da Agência 360VR
+
+### Title
+tour.name = 360VR Academy
+
+## Skin
+
+### Multiline Text
+HTMLText_8FA6BE6C_9E81_09F0_41CE_7FE6CC0BAA4D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
+HTMLText_8FAF7E72_9E81_09D0_41E2_03B1173E9EEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
+HTMLText_93C99673_9E83_19D6_41C3_27B9A5FBED25.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
+HTMLText_93E2B68A_9E83_1930_41D8_0E3D0D9B70EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
+HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
+
+### Label
+Label_1454469E_1ADA_8192_41B2_3064DCDB8580.text = DSLR
+Label_14844CEB_1ADA_81B3_41B3_D6FDA204DA57.text = 360º Camera
+Label_1A790CED_15E6_A106_41A4_1249ABC483C0.text = Office
+Label_8201495B_9E83_0BD7_41CD_B4146952ED0B.text = Drone
+Label_8AD5A20C_9E81_3931_41D0_2AF39B48FC96.text = Twins Viewer
+Label_8AE68404_9E81_3931_41DD_CBAF5A77BC9E.text = Split Viewer
+Label_A7F4F730_9E24_4BD7_41C8_19754FF8943A.text = Change Colors
+Label_AB59CFA7_9E6C_7AFA_41E2_7AFF9F5CEA5A.text = Change Navigation
+Label_B923BFA2_9E7C_DAFB_41B4_EB4FC8F1A759.text = Snow
+Label_BA0B7613_9E64_4DD9_41E3_9E0FE3A2FD04.text = Floor Plan Popup
+Label_BC266762_9E24_4A7B_41C1_F5B83BFDD263.text = Floor Plan
+Label_DC1F809F_D32B_9335_41AF_C169652853B1.text = GoPro
+Label_EDC8DF71_FC9E_2A9D_41E5_565D92F005CC.text = Chroma Key
+
+### Tooltip
+Image_081DD473_1AF2_0BCB_41B4_FB686CADDDF7.toolTip = Clique para entrar em contato pelo WhatsApp
+Image_1A06B1C8_15E6_A30F_41B5_3F54867FA512.toolTip = Clique para entrar em contato pelo Facebook
+Image_1A22CBC4_15E6_A706_41B4_F5E524C96E82.toolTip = Clique para entrar em contato pelo Instagram
+Label_DC1F809F_D32B_9335_41AF_C169652853B1.toolTip = Clique para saber mais sobre Tours Virtuais!
+
+## Media
+
+### Title
+map_BCDE9B0F_9E24_7BCA_41E2_553663E91CC4.label = floorplan
+panorama_0818C5C0_1B9B_D0D5_41B9_6D4EE6015CA0.label = 360VR - Foto 1
+panorama_14304149_1AD2_0DC4_41B5_910BB5EAD3BF.label = 360VR - Foto 3
+panorama_14337639_1AD2_3744_41B0_06DD9E2A06C3.label = 360VR - Foto 2
+panorama_1455FF59_1ADF_809F_41A8_068ACA55C817.label = AABB - DSLR
+panorama_14F3BE34_1ADF_8095_4195_35F51E34D442.label = AABB - GoPro
+panorama_14F69D27_1ADF_80B3_41B0_E7FC3DF9EE51.label = AABB - Insta360 ONE X
+panorama_68CB2706_7937_2A33_41D1_BBA69B40546C.label = Casa - Insta360 ONE X
+panorama_76E22CF5_7915_1FD1_41BE_13F7D56BEFC9.label = Casa - DSLR
+panorama_77435399_7915_6A5E_41D8_C2D685F182E4.label = Casa - GoPro
+panorama_A7C6BB12_9E25_FBDB_41D0_F3034667AEA1.label = sala-trocar-cor
+panorama_B613A6E8_9E6C_4A77_41BA_4D603865DCC3.label = Pano2
+panorama_B6520460_9E7C_4E76_41CE_458DD8545E77.label = lagoa-misteriosa-1
+video_156916A9_1B75_2F34_4198_22BF1B685769.label = video-final-tour
+video_16C150AB_1B38_DC6A_417C_007458F76690.label = foto-1-video (Edição de VR2 1)_3
+video_89DB8325_9E83_FF73_4195_5B168276B3AF.label = spiderman+thanos
+video_ACAF03B7_9751_9EA6_41C7_6FD9CCDC4573.label = fakedronsemaudio
+video_F2DE37D7_FCA6_1985_41E0_FCCFA18FEAD8.label = chromakeyverde
+video_F2E489E4_FCAE_69BB_41C0_BCCAF1E62395.label = chromakeyrosa
+
+## Action
+
+### URL
+LinkBehaviour_BC440AB9_B13F_2E69_4191_8EA4668D824D.source = https://www.americanas.com.br/produto/113923776/frigobar-brastemp-retro-bra08-preto-76l?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_pla_ed_refrigerador_gmv&gclid=Cj0KCQjwu-HoBRD5ARIsAPIPencocapxDrI8hV2iaaidutQ-4ratN0x2t4R719fiaDLoXk-IMZY8aq0aAlulEALw_wcB&i=5612cbe46ed24cafb5cae011&o=55cec44c9c3238c7d1b74a4c&opn=YSMESP&sellerId=00776574000660&voltagem=110%20volts
+LinkBehaviour_BC445AB9_B13F_2E69_41E0_E1D9B8CCCDFA.source = https://www.nescafe-dolcegusto.com.br/
+LinkBehaviour_BC447AB9_B13F_2E69_41D7_CC44F30963B6.source = https://api.whatsapp.com/send?phone=5533988186272&text=Ol%C3%A1%20Ag%C3%AAncia%20360VR%2C%20tenho%20interesse%20no%20Tour%20Virtual!
+LinkBehaviour_BC46FAB9_B13F_2E69_41E0_FE35924EBCD8.source = https://www.instagram.com/agencia360vr
+LinkBehaviour_BC47CAB3_B13F_2E79_419C_3CACB19C024A.source = https://www.facebook.com/agencia360vr
+LinkBehaviour_BC47EAB3_B13F_2E79_41D0_6B91A3B71BE7.source = https://www.oculus.com/quest/?locale=pt_BR
+LinkBehaviour_BC489AB3_B13F_2E79_41D3_66FF82F1DCFE.source = https://360vr.academy
+LinkBehaviour_BC48AAB3_B13F_2E79_41D9_B91901451690.source = https://www.oculus.com/quest/?locale=pt_BR
+PopupWebFrameBehaviour_27B72161_31FF_FD86_41C7_A3C697006E5E.url = https://sketchfab.com/models/50ac405a834b4dd49dc6c62efd09a471/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1
