@@ -1,5 +1,6 @@
 {
  "start_url": "index.html",
+ "background_color": "#FFFFFF",
  "name": "360VR Academy",
  "description": "Tour Virtual da 360VR Academy",
  "icons": [
@@ -39,7 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "display": "fullscreen",
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen"
 }
