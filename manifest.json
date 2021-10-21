@@ -1,20 +1,19 @@
 {
- "background_color": "#FFFFFF",
- "name": "360VR Academy",
- "description": "Tour Virtual da Agência 360VR",
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
  "start_url": "index.html",
+ "name": "360VR Academy",
+ "description": "Tour Virtual da 360VR Academy",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
-   "sizes": "512x512",
-   "src": "misc/icon512.png"
+   "sizes": "150x150",
+   "src": "misc/icon150.png"
   },
   {
    "type": "image/png",
-   "sizes": "192x192",
-   "src": "misc/icon192.png"
+   "sizes": "16x16",
+   "src": "misc/icon16.png"
   },
   {
    "type": "image/png",
@@ -23,13 +22,8 @@
   },
   {
    "type": "image/png",
-   "sizes": "150x150",
-   "src": "misc/icon150.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "64x64",
-   "src": "misc/icon64.png"
+   "sizes": "192x192",
+   "src": "misc/icon192.png"
   },
   {
    "type": "image/png",
@@ -38,8 +32,14 @@
   },
   {
    "type": "image/png",
-   "sizes": "16x16",
-   "src": "misc/icon16.png"
+   "sizes": "512x512",
+   "src": "misc/icon512.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "64x64",
+   "src": "misc/icon64.png"
   }
- ]
+ ],
+ "background_color": "#FFFFFF"
 }

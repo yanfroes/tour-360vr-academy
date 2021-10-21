@@ -3,7 +3,7 @@
 ## Tour
 
 ### Description
-tour.description = Tour Virtual da Agência 360VR
+tour.description = Tour Virtual da 360VR Academy
 
 ### Title
 tour.name = 360VR Academy
@@ -11,10 +11,10 @@ tour.name = 360VR Academy
 ## Skin
 
 ### Multiline Text
-HTMLText_8FA6BE6C_9E81_09F0_41CE_7FE6CC0BAA4D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
-HTMLText_8FAF7E72_9E81_09D0_41E2_03B1173E9EEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
-HTMLText_93C99673_9E83_19D6_41C3_27B9A5FBED25.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
-HTMLText_93E2B68A_9E83_1930_41D8_0E3D0D9B70EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
+HTMLText_8FA6BE6C_9E81_09F0_41CE_7FE6CC0BAA4D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
+HTMLText_8FAF7E72_9E81_09D0_41E2_03B1173E9EEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
+HTMLText_93C99673_9E83_19D6_41C3_27B9A5FBED25.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
+HTMLText_93E2B68A_9E83_1930_41D8_0E3D0D9B70EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
 HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
 
 ### Label
@@ -36,7 +36,6 @@ Label_EDC8DF71_FC9E_2A9D_41E5_565D92F005CC.text = Chroma Key
 Image_081DD473_1AF2_0BCB_41B4_FB686CADDDF7.toolTip = Clique para entrar em contato pelo WhatsApp
 Image_1A06B1C8_15E6_A30F_41B5_3F54867FA512.toolTip = Clique para entrar em contato pelo Facebook
 Image_1A22CBC4_15E6_A706_41B4_F5E524C96E82.toolTip = Clique para entrar em contato pelo Instagram
-Label_DC1F809F_D32B_9335_41AF_C169652853B1.toolTip = Clique para saber mais sobre Tours Virtuais!
 
 ## Media
 
