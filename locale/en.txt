@@ -12,31 +12,53 @@ tour.name = 360VR Academy
 
 ### Multiline Text
 HTMLText_8FA6BE6C_9E81_09F0_41CE_7FE6CC0BAA4D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
+HTMLText_8FA6BE6C_9E81_09F0_41CE_7FE6CC0BAA4D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
 HTMLText_8FAF7E72_9E81_09D0_41E2_03B1173E9EEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
+HTMLText_8FAF7E72_9E81_09D0_41E2_03B1173E9EEA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
 HTMLText_93C99673_9E83_19D6_41C3_27B9A5FBED25.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
+HTMLText_93C99673_9E83_19D6_41C3_27B9A5FBED25_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
 HTMLText_93E2B68A_9E83_1930_41D8_0E3D0D9B70EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
+HTMLText_93E2B68A_9E83_1930_41D8_0E3D0D9B70EC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
 HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
+HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
 
 ### Label
 Label_1454469E_1ADA_8192_41B2_3064DCDB8580.text = DSLR
+Label_1454469E_1ADA_8192_41B2_3064DCDB8580_mobile.text = DSLR
 Label_14844CEB_1ADA_81B3_41B3_D6FDA204DA57.text = 360º Camera
+Label_14844CEB_1ADA_81B3_41B3_D6FDA204DA57_mobile.text = 360º Camera
 Label_1A790CED_15E6_A106_41A4_1249ABC483C0.text = Office
+Label_1A790CED_15E6_A106_41A4_1249ABC483C0_mobile.text = Office
 Label_8201495B_9E83_0BD7_41CD_B4146952ED0B.text = Drone
+Label_8201495B_9E83_0BD7_41CD_B4146952ED0B_mobile.text = Drone
 Label_8AD5A20C_9E81_3931_41D0_2AF39B48FC96.text = Twins Viewer
+Label_8AD5A20C_9E81_3931_41D0_2AF39B48FC96_mobile.text = Twins Viewer
 Label_8AE68404_9E81_3931_41DD_CBAF5A77BC9E.text = Split Viewer
+Label_8AE68404_9E81_3931_41DD_CBAF5A77BC9E_mobile.text = Split Viewer
 Label_A7F4F730_9E24_4BD7_41C8_19754FF8943A.text = Change Colors
+Label_A7F4F730_9E24_4BD7_41C8_19754FF8943A_mobile.text = Change Colors
 Label_AB59CFA7_9E6C_7AFA_41E2_7AFF9F5CEA5A.text = Change Navigation
+Label_AB59CFA7_9E6C_7AFA_41E2_7AFF9F5CEA5A_mobile.text = Change Navigation
 Label_B62E359F_A449_64C1_41DD_A166F7B12152.text = Change Colors
+Label_B62E359F_A449_64C1_41DD_A166F7B12152_mobile.text = Change Colors
 Label_B923BFA2_9E7C_DAFB_41B4_EB4FC8F1A759.text = Snow
+Label_B923BFA2_9E7C_DAFB_41B4_EB4FC8F1A759_mobile.text = Snow
 Label_BA0B7613_9E64_4DD9_41E3_9E0FE3A2FD04.text = Floor Plan Popup
+Label_BA0B7613_9E64_4DD9_41E3_9E0FE3A2FD04_mobile.text = Floor Plan Popup
 Label_BC266762_9E24_4A7B_41C1_F5B83BFDD263.text = Floor Plan
+Label_BC266762_9E24_4A7B_41C1_F5B83BFDD263_mobile.text = Floor Plan
 Label_DC1F809F_D32B_9335_41AF_C169652853B1.text = GoPro
+Label_DC1F809F_D32B_9335_41AF_C169652853B1_mobile.text = GoPro
 Label_EDC8DF71_FC9E_2A9D_41E5_565D92F005CC.text = Chroma Key
+Label_EDC8DF71_FC9E_2A9D_41E5_565D92F005CC_mobile.text = Chroma Key
 
 ### Tooltip
 Image_081DD473_1AF2_0BCB_41B4_FB686CADDDF7.toolTip = Clique para entrar em contato pelo WhatsApp
+Image_081DD473_1AF2_0BCB_41B4_FB686CADDDF7_mobile.toolTip = Clique para entrar em contato pelo WhatsApp
 Image_1A06B1C8_15E6_A30F_41B5_3F54867FA512.toolTip = Clique para entrar em contato pelo Facebook
+Image_1A06B1C8_15E6_A30F_41B5_3F54867FA512_mobile.toolTip = Clique para entrar em contato pelo Facebook
 Image_1A22CBC4_15E6_A706_41B4_F5E524C96E82.toolTip = Clique para entrar em contato pelo Instagram
+Image_1A22CBC4_15E6_A706_41B4_F5E524C96E82_mobile.toolTip = Clique para entrar em contato pelo Instagram
 
 ## Media
 
@@ -70,6 +92,10 @@ overlay_B6CE86A9_A479_24C1_41D3_DCBBA8A1CEE1.url = //www.youtube.com/embed/tyK7j
 ## Action
 
 ### URL
+LinkBehaviour_B12AAAEC_A449_6C47_41D4_5C9508CBDE00.source = https://www.facebook.com/agencia360vr
+LinkBehaviour_B12ADADF_A449_6C41_4177_FFE53C8D4B1E.source = https://360vr.academy
+LinkBehaviour_B12AEAEC_A449_6C47_41D0_56653CAC0EB6.source = https://api.whatsapp.com/send?phone=5533988186272&text=Ol%C3%A1%20Ag%C3%AAncia%20360VR%2C%20tenho%20interesse%20no%20Tour%20Virtual!
+LinkBehaviour_B12C7AEB_A449_6C41_41D5_8CC6B82FB3F3.source = https://www.instagram.com/agencia360vr
 LinkBehaviour_BC440AB9_B13F_2E69_4191_8EA4668D824D.source = https://www.americanas.com.br/produto/113923776/frigobar-brastemp-retro-bra08-preto-76l?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_pla_ed_refrigerador_gmv&gclid=Cj0KCQjwu-HoBRD5ARIsAPIPencocapxDrI8hV2iaaidutQ-4ratN0x2t4R719fiaDLoXk-IMZY8aq0aAlulEALw_wcB&i=5612cbe46ed24cafb5cae011&o=55cec44c9c3238c7d1b74a4c&opn=YSMESP&sellerId=00776574000660&voltagem=110%20volts
 LinkBehaviour_BC445AB9_B13F_2E69_41E0_E1D9B8CCCDFA.source = https://www.nescafe-dolcegusto.com.br/
 LinkBehaviour_BC447AB9_B13F_2E69_41D7_CC44F30963B6.source = https://api.whatsapp.com/send?phone=5533988186272&text=Ol%C3%A1%20Ag%C3%AAncia%20360VR%2C%20tenho%20interesse%20no%20Tour%20Virtual!
