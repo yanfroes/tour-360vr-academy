@@ -15,7 +15,7 @@ HTMLText_8FA6BE6C_9E81_09F0_41CE_7FE6CC0BAA4D.html = <div style="text-align:left
 HTMLText_8FAF7E72_9E81_09D0_41E2_03B1173E9EEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
 HTMLText_93C99673_9E83_19D6_41C3_27B9A5FBED25.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
 HTMLText_93E2B68A_9E83_1930_41D8_0E3D0D9B70EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
-HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
+HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
 
 ### Label
 Label_1454469E_1ADA_8192_41B2_3064DCDB8580.text = DSLR
@@ -26,6 +26,7 @@ Label_8AD5A20C_9E81_3931_41D0_2AF39B48FC96.text = Twins Viewer
 Label_8AE68404_9E81_3931_41DD_CBAF5A77BC9E.text = Split Viewer
 Label_A7F4F730_9E24_4BD7_41C8_19754FF8943A.text = Change Colors
 Label_AB59CFA7_9E6C_7AFA_41E2_7AFF9F5CEA5A.text = Change Navigation
+Label_B62E359F_A449_64C1_41DD_A166F7B12152.text = Change Colors
 Label_B923BFA2_9E7C_DAFB_41B4_EB4FC8F1A759.text = Snow
 Label_BA0B7613_9E64_4DD9_41E3_9E0FE3A2FD04.text = Floor Plan Popup
 Label_BC266762_9E24_4A7B_41C1_F5B83BFDD263.text = Floor Plan
@@ -63,8 +64,8 @@ video_F2E489E4_FCAE_69BB_41C0_BCCAF1E62395.label = chromakeyrosa
 ## Hotspot
 
 ### URL
-overlay_AA756930_A449_2DC0_41E4_79968989ED29.url = //www.youtube.com/embed/tyK7j8MiJH4
-overlay_B431BF20_A45B_25FF_41D6_5423023E1D5A.url = https://360vr.com.br
+overlay_B65E7D84_A479_24C0_41DF_4B95F4CC868A.url = https://globo.com
+overlay_B6CE86A9_A479_24C1_41D3_DCBBA8A1CEE1.url = //www.youtube.com/embed/tyK7j8MiJH4
 
 ## Action
 
