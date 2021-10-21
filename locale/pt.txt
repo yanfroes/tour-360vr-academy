@@ -15,7 +15,7 @@ HTMLText_8FA6BE6C_9E81_09F0_41CE_7FE6CC0BAA4D.html = <div style="text-align:left
 HTMLText_8FAF7E72_9E81_09D0_41E2_03B1173E9EEA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
 HTMLText_93C99673_9E83_19D6_41C3_27B9A5FBED25.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Antes</SPAN></DIV></div>
 HTMLText_93E2B68A_9E83_1930_41D8_0E3D0D9B70EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Depois</SPAN></DIV></div>
-HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
+HTMLText_BC5AB582_9E5C_4EBB_419C_368E4C610FF8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Arial Black', Gadget, sans-serif;"><B>PLANTA BAIXA</B></SPAN></SPAN></DIV></div>
 
 ### Label
 Label_1454469E_1ADA_8192_41B2_3064DCDB8580.text = DSLR
@@ -59,6 +59,12 @@ video_89DB8325_9E83_FF73_4195_5B168276B3AF.label = spiderman+thanos
 video_ACAF03B7_9751_9EA6_41C7_6FD9CCDC4573.label = fakedronsemaudio
 video_F2DE37D7_FCA6_1985_41E0_FCCFA18FEAD8.label = chromakeyverde
 video_F2E489E4_FCAE_69BB_41C0_BCCAF1E62395.label = chromakeyrosa
+
+## Hotspot
+
+### URL
+overlay_AA756930_A449_2DC0_41E4_79968989ED29.url = //www.youtube.com/embed/tyK7j8MiJH4
+overlay_B431BF20_A45B_25FF_41D6_5423023E1D5A.url = https://360vr.com.br
 
 ## Action
 
